@@ -43,7 +43,7 @@ class Day04Test {
             """;
 
     Day04 day = new Day04(input);
-    assertEquals("4121910778619", day.part2());
+    assertEquals("43", day.part2());
   }
 
   @Test
